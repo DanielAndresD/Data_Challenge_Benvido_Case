@@ -1,0 +1,7 @@
+#Personal folders
+settings
+
+# Cache files
+*/__pycache__
+
+# Power BI Dashboard
